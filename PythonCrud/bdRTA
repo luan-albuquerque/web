@@ -1,0 +1,50 @@
+Relatório Técnico de Aeronaves
+	Acft
+	NumRTA
+	Origem - OPR / MNT
+	NumVoo
+	NumDB
+	Trecho
+	Data
+	Disc
+	Mecanico1
+	CodAnac1
+	Acao
+	Mecanico2
+	CodAnac2
+	RefRTA
+	Ata
+	Mel - SIM / NAO
+	Acr - ABERTO/ FECHADO
+	RefItem - 
+	Cat
+	SaidaPN1
+	SaidaSN1
+	SaidaPOS1
+	EntradaPN1
+	EntradaSN1
+	EntradaPOS1
+	SaidaPN2
+	SaidaSN2
+	SaidaPOS2
+	EntradaPN2
+	EntradaSN2
+	EntradaPOS2
+	SaidaPN3
+	SaidaSN3
+	SaidaPOS3
+	EntradaPN3
+	EntradaSN3
+	EntradaPOS3
+	OleoLH
+	OleoRH
+	OleoHID
+	Diaria
+	Linha
+	Semanal
+	PMA
+	JIC
+	Hora
+	Data
+	CodANACLib
+	
